@@ -24,3 +24,9 @@ https://youtu.be/1NqWL-M69Bs
 -You can view my app/way I built the app in this  video link below.
 
 https://youtu.be/dCvOaJwNauY
+
+# PowerApps - Model Driven APP with Plan Designer
+
+-You can view my app/way I built the app in this  video link below.
+
+https://youtu.be/tA-aqwQZTpQ
