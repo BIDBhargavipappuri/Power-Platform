@@ -1,3 +1,8 @@
+# **Agenda: Power Platform Series**
+
+To demonstrate my expertise in the Power Platform, I created a series of videos showcasing the solutions I have built. Since the Power Platform integrates closely with Azure DevOps, these videos highlight my hands‑on work and provide direct URLs for viewers to explore the implementations in detail.
+
+
 # AI Builder + Power Automate (Automated Cloud Flow)
 By using AI builder we can create custom AI models that meets our business needs. 
 -Extracting the data from lots of invoice copies take time , this can be simplified using AI models.
@@ -10,6 +15,8 @@ We do this in 5 Steps
 -Create a flow- Using Automated cloud flow we are creating flow
 -use the AI model Trained - with the help of  AI model name trained we will specify the model to use.
 -store the data in the Database- Store the data in Microsoft dataverse which is part of power platform.
+
+Note- Use documents/PDF's of same format for better results and its best practice as well.
 
 -You can view my app/way I built the app in this  video link below.
 
