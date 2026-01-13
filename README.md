@@ -3,6 +3,14 @@
 To demonstrate my expertise in the Power Platform, I created a series of videos showcasing the solutions I have built. Since the Power Platform integrates closely with Azure DevOps, these videos highlight my hands‑on work and provide direct URLs for viewers to explore the implementations in detail.
 
 
+# Copilot Studio - Built Chatbots.
+
+In Microsoft Copilot Studio, agents are used to build chatbots with low or minimal code. Based on the requirement, you can also add complex logic by integrating Power Platform tools. Chatbots can respond to user questions or messages, use topics or prompts, handle FAQs, and provide information.
+
+
+Agents - Understands complex natural language, Makes Decisions, Maintain memory , can perform tasks.
+
+
 # AI Builder + Power Automate (Automated Cloud Flow)
 By using AI builder we can create custom AI models that meets our business needs. 
 -Extracting the data from lots of invoice copies take time , this can be simplified using AI models.
