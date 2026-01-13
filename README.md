@@ -5,7 +5,7 @@ To demonstrate my expertise in the Power Platform, I created a series of videos 
 
 # Copilot Studio - Built Chatbots.
 
-In Microsoft Copilot Studio, agents are used to build chatbots with low or minimal code. Based on the requirement, you can also add complex logic by integrating Power Platform tools. Chatbots can respond to user questions or messages, use topics or prompts, handle FAQs, and provide information.
+In Microsoft Copilot Studio, agents are used to build chatbots with low or minimal code. Based on the requirement, you can also add complex logic by integrating Power Platform tools. Chatbots can respond to user questions or messages, use topics or prompts, handle FAQs, and provide information. They can also connect to databases, APIs, or external systems to fetch answers, show real‑time data, or perform actions like inserting data in to Database based on user requests.
 
 
 Agents - Understands complex natural language, Makes Decisions, Maintain memory , can perform tasks.
