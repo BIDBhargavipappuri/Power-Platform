@@ -10,6 +10,8 @@ In Microsoft Copilot Studio, agents are used to build chatbots with low or minim
 
 Agents - Understands complex natural language, Makes Decisions, Maintain memory , can perform tasks.
 
+# Note- View the Videos in playback speed more than 1.25 in YouTube.
+
 # ChatBot Using Copilot Studio (Using API)
 
 -You can view how I built CahtBot in the  video link below.
