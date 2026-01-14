@@ -10,7 +10,17 @@ In Microsoft Copilot Studio, agents are used to build chatbots with low or minim
 
 Agents - Understands complex natural language, Makes Decisions, Maintain memory , can perform tasks.
 
+# ChatBot Using Copilot Studio (Using API)
 
+-You can view how I built CahtBot in the  video link below.
+
+https://youtu.be/71aSewmKFzs 
+
+# ChatBot Using Copilot Studio (Using SQLDB- Provide Info from SQL Tables and insert data in to SQL Tables)
+
+-You can view how I built CahtBot in the  video link below.
+
+https://youtu.be/1CL80JULmgI 
 # AI Builder + Power Automate (Automated Cloud Flow)
 By using AI builder we can create custom AI models that meets our business needs. 
 -Extracting the data from lots of invoice copies take time , this can be simplified using AI models.
@@ -26,7 +36,7 @@ We do this in 5 Steps
 
 Note- Use documents/PDF's of same format for better results and its best practice as well.
 
--You can view my app/way I built the app in this  video link below.
+-You can view how I trained Agent in the  video link below.
 
 https://youtu.be/8dd30d8-p7M
 
