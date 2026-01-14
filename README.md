@@ -36,7 +36,7 @@ We do this in 5 Steps
 
 Note- Use documents/PDF's of same format for better results and its best practice as well.
 
--You can view how I trained Agent in the  video link below.
+-You can view how I built custom AI model in the  video link below.
 
 https://youtu.be/8dd30d8-p7M
 
